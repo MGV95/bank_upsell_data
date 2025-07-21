@@ -1,0 +1,7 @@
+*build/
+*raw_data/
+*outputs/
+*venv/
+*.egg-info/
+*.idea/
+*.DS_Store
